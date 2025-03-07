@@ -1,0 +1,29 @@
+{
+    "project_info": {
+      "project_number": "538587968069",
+      "project_id": "burnquest-e7ea3",
+      "storage_bucket": "burnquest-e7ea3.firebasestorage.app"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:538587968069:android:8d5a20f7865a892f87a92c",
+          "android_client_info": {
+            "package_name": "br.unisagrado.burnquest"
+          }
+        },
+        "oauth_client": [],
+        "api_key": [
+          {
+            "current_key": "AIzaSyC1DADRtT8Zbql8nw361YJIjgQdcx2dPFY"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": []
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
